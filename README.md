@@ -6,8 +6,6 @@
 <p align="center">
   <img src="https://imgur.com/99jjSiI.gif">
 </p>
-![enter image description here](https://imgur.com/99jjSiI.gif)
-
 
 
 <!--
