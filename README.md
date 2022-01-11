@@ -4,7 +4,7 @@
 
   > I'm your local developer, artist, and indie game enthusiast. I've become fascinated with visual and interactive design, so I've decided to start game development, and here I am. Excited and ready to show the world what I have to offer!
 
-![enter image description here](https://imgur.com/wM62iiz.gif)
+![enter image description here](https://imgur.com/tJ0Dwbx.gif)
 
 
 
