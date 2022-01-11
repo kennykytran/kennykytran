@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1  align="center">Hey all! I'm Kenny Tran.</h1>
+
+<h3 align="center">So who's this guy? 🤔 </h3>
+
+  > I'm your local developer, artist, and indie game enthusiast. I've become fascinated with visual and interactive design, so I've decided to start game development, and here I am. Excited and ready to show the world what I have to offer!
+
+![enter image description here](https://imgur.com/2MZPK5B.gif)
+
+
 
 <!--
 **ktranfullerton2000/ktranfullerton2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
