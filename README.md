@@ -7,6 +7,11 @@
   <img src="https://imgur.com/99jjSiI.gif">
 </p>
 
+<p align="center">
+<img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=ktranfullerton2000&theme=dracula" style="border-radius:40px;">
+<img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktranfullerton2000&layout=compact&theme=dracula" style="border-radius:40px;">
+
+</p>
 
 <!--
 **ktranfullerton2000/ktranfullerton2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
