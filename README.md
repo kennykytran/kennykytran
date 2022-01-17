@@ -13,6 +13,11 @@
 
 </p>
 
+<h4 align="center">Skills: </h3>
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)
+
 <!--
 **ktranfullerton2000/ktranfullerton2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
