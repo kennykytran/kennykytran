@@ -4,10 +4,7 @@
 
   > I'm your local developer, artist, and indie game enthusiast. I've become fascinated with visual and interactive design, so I've decided to start game development, and here I am. Excited and ready to show the world what I have to offer!
 <p align="center">
-  <img src="https://imgur.com/99jjSiI.gif">
-</p>
-<p align="center">
-  <img src="https://imgur.com/tbLyyo5.gif">
+  <img src="sample.gif?raw=true" width="800px">
 </p>
 <p align="center">
 <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=ktranfullerton2000&theme=dracula" style="border-radius:40px;">
