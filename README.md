@@ -7,8 +7,8 @@
   <img src="sample.gif?raw=true" width="800px">
 </p>
 <p align="center">
-<img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=ktranfullerton2000&theme=dracula" style="border-radius:40px;">
-<img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktranfullerton2000&layout=compact&theme=dracula" style="border-radius:40px;">
+<img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=kennykytran&theme=dracula" style="border-radius:40px;">
+<img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennykytran&layout=compact&theme=dracula" style="border-radius:40px;">
 
 </p>
 
