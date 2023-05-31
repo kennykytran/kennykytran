@@ -2,7 +2,7 @@
 
 <h3 align="center">So who's this guy? 🤔 </h3>
 
-  > I'm your local developer, artist, and indie game enthusiast. I've become fascinated with visual and interactive design, so I've decided to start game development, and here I am. Excited and ready to show the world what I have to offer!
+  > I'm your local developer, artist, and indie game enthusiast. I've become fascinated with visual and interactive design, so here I am. Excited and ready to show the world what I have to offer!
 <p align="center">
   <img src="sample.gif?raw=true" width="800px">
 </p>
