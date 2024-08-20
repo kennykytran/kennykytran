@@ -2,7 +2,7 @@
 
 <h3 align="center">So who's this guy? 🤔 </h3>
 
-  > I'm your local developer, artist, and indie game enthusiast. I've become fascinated with visual and interactive design, so here I am. Excited and ready to show the world what I have to offer! Also to see my contributions from June to September please view the following GitHub account: https://github.com/kennyzymo
+  > I'm your local developer, artist, and indie game enthusiast. I've become fascinated with visual and interactive design, so here I am. Excited and ready to show the world what I have to offer! Also to see my contributions from June 2023 to September 2023 please view the following GitHub account: https://github.com/kennyzymo
 <p align="center">
   <img src="sample.gif?raw=true" width="800px">
 </p>
